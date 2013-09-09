@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="personnes">
+        <item> Mohamed Guendouz </item>
+        <item> Kouceyla Hadji </item>
+        <item> Hacen Dada </item>
+        <item> Yazid Cherifi </item>
+        <item> Ilyes Kechidi </item>
+    </string-array>
+
+</resources>

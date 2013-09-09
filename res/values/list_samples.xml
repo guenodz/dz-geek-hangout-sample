@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="samples">
+        <item> Simple ListView</item>
+        <item> Custom ListView</item>
+        <item> Simple Setting</item>
+        <item> Simple HTTP Request</item>
+        <item> OpenWeatherMap Rest/JSON API</item>
+    </string-array>
+
+</resources>
